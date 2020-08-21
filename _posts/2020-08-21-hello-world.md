@@ -1,3 +1,8 @@
+---
+title: "Hello World"
+date: 2020-08-21
+---
+
 This is how you create a program that greets the whole world in Python:
 
     print('Hello world!')
